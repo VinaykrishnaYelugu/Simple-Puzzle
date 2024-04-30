@@ -1,0 +1,40 @@
+div{
+    border : 2px solid black;
+}
+
+span{
+    border : 2px solid blue;
+}
+
+#man{
+    height : 5px;
+    width : 5px;
+    color : lime;
+    border : 5px solid lime;
+    border-radius: 50%;
+    position : absolute;
+    top : 2px;
+    left : 2px;
+    border-top : 5px solid blue;
+}
+
+
+#puzzle {
+    height : 500px;
+    width : 500px;
+    display : flex;
+}
+
+#n1{
+   height : 300px;
+   position : relative;
+   top : 0px;
+   left : 200px;
+}
+
+#n2{
+   height : 400px;
+   position : relative;
+   top : 98px;
+   left : 300px;
+}
